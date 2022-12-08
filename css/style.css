@@ -1,0 +1,28 @@
+/* hb starts */
+#hb-container {
+  width: 1355%;
+  height: 284px;
+  overflow: hidden;
+  position: relative;
+}
+
+.inner-content {
+    display: flex;
+    justify-content: center;
+
+}
+.hb {
+padding: 20px;
+}
+
+.bg-video {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+                   
+img {
+    
+
+}
+/* hb ends */
