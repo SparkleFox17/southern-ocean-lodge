@@ -188,26 +188,38 @@ margin-top: -150px;
 
 h1 {
     color: #01324c;
-    font-size: 20px;
+    font-size: 47px;
     font-weight: 400;
     font-style: normal;
     visibility: visible;
     position: relative;
+    padding: 20px;
 }
 
 p {
-    font-size: 19px;
     line-height: 26px;
     padding: 0 180px 0 176px;
     color: black;
     font-weight: 300;
     color: #000;
     padding: 10px;
+    margin: 0 0 22px;
+    box-sizing: border-box;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
 }
 
 .updates {
     font-weight: bolder;
     color: #01324c;
+    font-size: 21px;
+    line-height: 26px;
+    display: inline-block;
+    vertical-align: top;
+    font-weight: 400;
+    margin: 0 225px;
+    
 }
 /* new ch, recovery ends */
 
